@@ -1,4 +1,3 @@
-import time
 import os
 r = 's'
 while r == 's':
