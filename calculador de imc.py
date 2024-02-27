@@ -1,8 +1,9 @@
 import os
 r = 's'
 while r == 's':
-    #recebendo as informações
+    #limpando a tela
     os.system('cls')
+    #recebendo informções de peso e altura
     print('------------------------------------------------------------------------------------------------------------')
     peso = float(input('quanto você pesa?'))
     print('------------------------------------------------------------------------------------------------------------')
