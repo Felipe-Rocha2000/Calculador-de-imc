@@ -1,3 +1,4 @@
+#impotando bibliotecas
 import os
 r = 's'
 while r == 's':
